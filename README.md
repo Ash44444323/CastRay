@@ -1,2 +1,5 @@
-This module is still heavily in production. Expect some aspects of the module to not work or break suddenly.
-Work in progress
+CastRay has been tested and with lightweight
+useage shouldn't break. With it's small size 
+it's capabilities are extremely limited to plain
+raycasting. CastRay will be updated to provide more
+services and extra Raycasting options.
